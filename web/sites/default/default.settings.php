@@ -1,6 +1,6 @@
 <?php
 
-/**
+/**nnnn
  * @file
  * Drupal site-specific configuration file.
  *
